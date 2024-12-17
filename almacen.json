@@ -5,35 +5,125 @@
       "username": "usuario123",
       "password": "duoc1234",
       "email": "usuaraio1@mail.cl",
-      "isactive": true
+      "isactive": true,
+      "materias": [
+        {
+          "nombre": "INTRODUCCION A LA PROGRAMACION",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        },
+        {
+          "nombre": "CALCULO 1",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2",
       "username": "usuario2",
       "password": "maipu1234",
       "email": "usuario2@mail.cl",
-      "isactive": true
+      "isactive": true,
+      "materias": [
+        {
+          "nombre": "FISICA 1",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        },
+        {
+          "nombre": "QUIMICA",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "0d56",
       "username": "sasdadas",
       "email": "asdasdasdasdasd@asd.com",
       "password": "senasoeaseno2",
-      "isactive": true
+      "isactive": true,
+      "materias": [
+        {
+          "nombre": "INTRODUCCION A LA PROGRAMACION",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "68ee",
       "username": "aaaaaa",
       "email": "a@a.com",
       "password": "aaaaaaaa1",
-      "isactive": true
+      "isactive": true,
+      "materias": [
+        {
+          "nombre": "CALCULO 1",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        },
+        {
+          "nombre": "COMUNICACION EFECTIVA",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bb39",
       "username": "username",
       "email": "sdfsd@asd.cl",
       "password": "password1",
-      "isactive": true
+      "isactive": true,
+      "materias": [
+        {
+          "nombre": "QUIMICA",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5365",
@@ -41,52 +131,176 @@
       "password": "pedrito2323",
       "email": "pedro@pedro.cl",
       "isactive": true,
-      "profileImage": "http://localhost:3000/uploads/ab67616100005174b75aa8d6f683f83d5114a9b9.jpg"
+      "profileImage": "http://localhost:3000/uploads/ab67616100005174b75aa8d6f683f83d5114a9b9.jpg",
+      "materias": [
+        {
+          "nombre": "INTRODUCCION A LA PROGRAMACION",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5490",
       "username": "pedropedro2",
       "email": "pedro@pedro.com",
-      "password": "pedropedro123"
+      "password": "pedropedro123",
+      "materias": [
+        {
+          "nombre": "FISICA 1",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "9879",
       "username": "registro",
       "email": "registro@cl.cl",
       "password": "registro1",
-      "isactive": true
+      "isactive": true,
+      "materias": [
+        {
+          "nombre": "QUIMICA",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        },
+        {
+          "nombre": "COMUNICACION EFECTIVA",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d1ca",
       "username": "qweqwe2",
       "password": "qweqweqwe1",
       "email": "qweqwe@qwe.qwe2",
-      "isactive": true
-    },
-    {
-      "id": "5365",
-      "username": "pedrito23232",
-      "password": "pedrito2323",
-      "email": "pedro@pedro.cl",
       "isactive": true,
-      "profileImage": "http://localhost:3000/uploads/ab67616100005174b75aa8d6f683f83d5114a9b9.jpg"
-    },
-    {
-      "id": "5365",
-      "username": "pedrito232322323",
-      "password": "pedrito2323",
-      "email": "pedro@pedro.cl",
-      "isactive": true,
-      "profileImage": "http://localhost:3000/uploads/ab67616100005174b75aa8d6f683f83d5114a9b9.jpg"
+      "materias": [
+        {
+          "nombre": "INTRODUCCION A LA PROGRAMACION",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1281",
-      "username": "juandiego",
+      "username": "juandiego2",
       "email": "juan@juan.cl",
       "password": "juandiego1",
       "isactive": true,
       "profileImage": "",
-      "rut": "2222222222"
+      "rut": "2222222222",
+      "materias": [
+        {
+          "nombre": "CALCULO 1",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-30T18:26:00",
+              "razon": "Inasistencia calculo1",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-24T18:54:00",
+              "razon": "TEST TEST TEST TEST",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-17T18:56:00",
+              "razon": "PRUEBA PRUEBA PRUEBA PRUEBA PRUEBA PRUEBA PRUEBA PRUEBA PRUEBA ",
+              "comentarioProfesor": ""
+            }
+          ]
+        },
+        {
+          "nombre": "FISICA 1",
+          "justificaciones": [
+            {
+              "fecha": "",
+              "razon": "",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-17T04:26:00",
+              "razon": "Emergencia familiar",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-16T05:30:00",
+              "razon": "A",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-16T05:30:00",
+              "razon": "asdad",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-18T05:30:00",
+              "razon": "medico",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-20T18:24:00",
+              "razon": "No tengo ganas de ir.",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-05T18:42:00",
+              "razon": "PRUEBA JUSTIFICAR FISICA",
+              "comentarioProfesor": ""
+            },
+            {
+              "fecha": "2024-12-18T19:05:00",
+              "razon": "TEST FINAL FINAL121111",
+              "comentarioProfesor": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc2d",
+      "username": "profesor jirafales",
+      "email": "ignacio05sebastian@gmail.com",
+      "password": "profesor1",
+      "isactive": true,
+      "profileImage": "",
+      "rut": "208379061",
+      "isProfesor": true
     }
   ]
 }
